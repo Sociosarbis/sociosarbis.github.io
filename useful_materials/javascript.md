@@ -4,3 +4,5 @@
   _Knapsack problem detailed solutions_
 * [H5游戏开发：消灭星星](https://github.com/leeenx/popstar/tree/master/src/script/core)<br/>
  _core codes of popstar game_
+* [从0到1，开发一个动画库](https://github.com/JS-Hao/timeline/tree/master/src)<br/>
+ _development of a simple animation library from which we could get some inspirations_
