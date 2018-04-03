@@ -10,3 +10,5 @@
  _core principles of Koa web framework
   * [HTML5 拖拽批量上传文件](https://github.com/Msxiaoma/upload-folder)<br/>
  _drag and drop the files on the web page to upload it with HTML5 API
+   * [搭建Node.js静态服务器](https://segmentfault.com/a/1190000013800347)<br/>
+ _build a static web server
