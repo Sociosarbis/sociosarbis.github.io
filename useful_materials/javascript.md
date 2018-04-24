@@ -12,5 +12,5 @@
  _drag and drop the files on the web page to upload it with HTML5 API_
    * [搭建Node.js静态服务器](https://segmentfault.com/a/1190000013800347)<br/>
  _build a static web server_
- * [react+socket搭建五子棋平台] (https://segmentfault.com/a/1190000014553247)<br/>
+ * [react+socket搭建五子棋平台](https://segmentfault.com/a/1190000014553247)<br/>
  _focus on the integration of react with socket and canvas_
