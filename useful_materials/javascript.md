@@ -14,3 +14,5 @@
  _build a static web server_
  * [react+socket搭建五子棋平台](https://segmentfault.com/a/1190000014553247)<br/>
  _focus on the integration of react with socket and canvas_
+ * [基于 Immutable.js 实现撤销重做功能](https://qianduan.group/posts/5a956f860cf6b624d2239cae)<br/>
+ _some hints for implementing undo and redo features_
