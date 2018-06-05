@@ -16,3 +16,5 @@
  _focus on the integration of react with socket and canvas_
  * [基于 Immutable.js 实现撤销重做功能](https://qianduan.group/posts/5a956f860cf6b624d2239cae)<br/>
  _some hints for implementing undo and redo features_
+  * [窥探原理：实现一个简单的前端代码打包器 Roid](https://segmentfault.com/a/1190000015172229)<br/>
+ _demonstration of the basics of how bundler works_
