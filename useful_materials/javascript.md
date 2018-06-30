@@ -18,3 +18,5 @@
  _some hints for implementing undo and redo features_
   * [窥探原理：实现一个简单的前端代码打包器 Roid](https://segmentfault.com/a/1190000015172229)<br/>
  _demonstration of the basics of how bundler works_
+  * [计步算法个人总结](https://blog.csdn.net/Zxin94264/article/details/78716290)<br/>
+_JAVA implementation of algorithm of step detection_
