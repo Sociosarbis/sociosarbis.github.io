@@ -4,3 +4,5 @@ _introduction of module operating redis db with python_
 _simple imitation of TensorFlow_
 * [Tensorflow实战：Discuz验证码识别](https://cloud.tencent.com/developer/article/1052886)<br/>
 _verification code recognition with Tensorflow_
+* [TensorFlow 高效编程](https://github.com/wizardforcel/data-science-notebook/blob/master/tf/effective-tf.md)<br/>
+_basic programing techniques about tensorflow
