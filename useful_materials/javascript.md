@@ -23,4 +23,6 @@ _JAVA implementation of algorithm of step detection_
   * [Phenomenon: A 2KB Low-Level WebGL Library](https://github.com/vaneenige/phenomenon)<br/>
 _a very small, low-level WebGL library that provides the essentials to deliver a high performance experience._
   * [HTTP2 server with compression and caching](https://gist.github.com/davidgilbertson/e5690c04e06c4882cf5761f8acff36ec)<br/>
-_an simple example on implementating HTTP2 server with new compression method - brotli._
+_a simple example on implementating HTTP2 server with new compression method - brotli._
+  * [深入浅出Vue基于“依赖收集”的响应式原理](https://zhuanlan.zhihu.com/p/29318017)
+_a concise example on how Vue collect dependencies to realize the feature of reactive
